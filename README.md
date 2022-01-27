@@ -1,4 +1,4 @@
-# Technical-Document-Classification
+# TechDoc
 
 This repository contains data and code for the paper: Shuo Jiang, Jianxi Luo, Jie Hu, and Christopher L. Magee. "Deep learning for technical document classification." arXiv preprint arXiv:2106.14269 (2021). https://arxiv.org/pdf/2106.14269.pdf
 
